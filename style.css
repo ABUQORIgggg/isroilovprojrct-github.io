@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+table{
+    width: 50%;
+    background-color: black;
+    border-collapse: collapse;
+   
+
+}
+th,td{
+    border: 1px solid white;
+    color: aliceblue;
+    transition: 0.5 ease;
+   
+}
+.ABB{
+    color: red;
+}
+#A{
+    color: red;
+}
+#B{
+    color: red;
+}
+#D{
+    color: red;
+}
+td:hover{
+    background-color: white;
+    color: black;
+}
+
+th:hover{
+    background-color: antiquewhite;
+    color: black;
+}
